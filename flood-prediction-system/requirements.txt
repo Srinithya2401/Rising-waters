@@ -1,8 +1,6 @@
+flask
+gunicorn
+joblib
 numpy
 pandas
 scikit-learn
-matplotlib
-seaborn
-flask
-joblib
-xgboost
